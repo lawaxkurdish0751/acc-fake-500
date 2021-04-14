@@ -4,8 +4,8 @@ const fs = require("fs");
 const cmd = require("node-cmd");
 const config = require("./config.json");
 const prefix = config.prefix;
-// ENG : Const For The Tokens OF The 300 Accounts
-// KURD : 300 Const'akay Tokenakan
+// ENG : Const For The Tokens OF The 500 Accounts
+// KURD : 500 Const'akay Tokenakan
 
 const NeXiSs = new Discord.Client();
 const NeXiSs2 = new Discord.Client();
